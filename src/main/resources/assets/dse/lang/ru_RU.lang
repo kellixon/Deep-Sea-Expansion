@@ -1,0 +1,188 @@
+//---Formating---//
+//'%var%' allows the code to take over and replace '%var%' with variables.
+//The symbol ';' indicates a linebreak. Used in item tooltips.
+
+//---Creative Tab---//
+itemGroup.dse=Deep Sea Expansion
+
+//---Items---//
+item.dse.icon.name=DSE Mod Icon
+item.dse.divinggoggles.name=Дайвинг очки
+item.dse.flippers.name=Ласты
+item.dse.dinghy.name=Шлюпка
+item.dse.shadercore.name=Ядро шейдера
+item.dse.shader.name=Шейдер предмета
+item.dse.airtank.name=Другой баллон с воздухом
+item.dse.airtanksmall.name=Маленький баллон с воздухом
+item.dse.airtanklarge.name=Большой баллон с воздухом
+item.dse.airtankhighpressure.name=Баллон с воздухом высокого давления
+item.dse.airtankcreative.name=Творческий баллон с воздухом
+item.dse.steelingot.name=Стальной слиток
+item.dse.rubbercompound.name=Резиновая смесь
+item.dse.rubber.name=Резина
+item.dse.ironplate.name=Железная пластина
+item.dse.steelplate.name=Стальная пластина
+item.dse.plasteelplate.name=Сталепластовая пластина
+item.dse.heavyironplate.name=Тяжелая железная пластина
+item.dse.heavysteelplate.name=Тяжелая стальная пластина
+item.dse.heavyplasteelplate.name=Тяжелая сталепластовая пластина
+item.dse.oxygenfilter.name=Кислородный фильтр
+item.dse.basiccircuit.name=Базовая схема
+item.dse.advancedcircuit.name=Продвинутая схема
+item.dse.elitecircuit.name=Элитная схема
+item.dse.hammeriron.name=Железный молот
+item.dse.hammersteel.name=Стальной молот
+item.dse.heavyboots.name=Тяжелые ботинки
+item.dse.motorboat.name=Моторная лодка
+item.dse.upgrade.paddles.name=Весла
+item.dse.upgrade.storagebox.name=Ящик для хранения
+item.dse.upgrade.boatbooster.name=Турбонаддув
+item.dse.upgrade.lightfilter.name=Активный фильтр
+item.dse.upgrade.amplifier.name=Усилитель силы
+item.dse.rebreather.name=Ребризёр
+item.dse.scubamask.name=Модульный шлем акваланга
+item.dse.scubachest.name=Модульный нагрудник акваланга
+item.dse.scubalegs.name=Модульные поножи акваланга
+item.dse.scubaboots.name=Модульные ботинки акваланга
+item.dse.armorplate.name=Другая пластина броня
+item.dse.armorplate.iron.name=Железная пластина броня
+item.dse.armorplate.diamond.name=Алмазная пластина броня
+item.dse.armorplate.steel.name=Стальная пластина броня
+item.dse.armorplate.plasteel.name=Сталепластовая пластина броня
+item.dse.armorplate.copper.name=Медная пластина броня
+item.dse.armorplate.bronze.name=Бронзовая пластина броня
+item.dse.armorplate.platinum.name=Платиновая пластина броня
+item.dse.armorplate.invar.name=Инваровая пластина броня
+item.dse.armorplate.silver.name=Серебряная пластина броня
+item.dse.powerunit.name=Другой источник питания
+item.dse.powerunitsmall.name=Малый источник питания
+item.dse.powerunitmedium.name=Средний источник питания
+item.dse.powerunitlarge.name=Большой источник питания
+item.dse.powerunitcreative.name=Творческий источник питания
+item.dse.insulation.hyperthermic.name=Гипертермическая изоляция
+item.dse.insulation.hypothermic.name=Гипотермическая изоляция
+
+//---Blocks---//
+tile.dse.compressor.name=Воздушный компрессор
+tile.dse.charger.name=Зарядное устройство
+tile.dse.coloredmetal.white.name=Белый металлический блок
+tile.dse.coloredmetal.orange.name=Оранжевый металлический блок
+tile.dse.coloredmetal.magenta.name=Пурпурный металлический блок
+tile.dse.coloredmetal.light_blue.name=Светло-синий металлический блок
+tile.dse.coloredmetal.yellow.name=Желтый металлический блок
+tile.dse.coloredmetal.lime.name=Лаймовый металлический блок
+tile.dse.coloredmetal.pink.name=Розовый металлический блок
+tile.dse.coloredmetal.gray.name=Серый металлический блок
+tile.dse.coloredmetal.silver.name=Светло-серый металлический блок
+tile.dse.coloredmetal.cyan.name=Голубой металлический блок
+tile.dse.coloredmetal.purple.name=Фиолетовый металлический блок
+tile.dse.coloredmetal.blue.name=Синий металлический блок
+tile.dse.coloredmetal.brown.name=Коричневый металлический блок
+tile.dse.coloredmetal.green.name=Зеленый металлический блок
+tile.dse.coloredmetal.red.name=Красный металлический блок
+tile.dse.coloredmetal.black.name=Черный металлический блок
+tile.dse.vehiclecharger.name=Бухта зарядки транспорта
+tile.dse.vehiclestation.name=Станция модификации транспорта
+
+//---Entity---//
+entity.dse.dinghy.name=Шлюпка
+entity.dse.motorboat.name=Моторная лодка
+
+//---Shaders---//
+shader.dse.crimson=Малиновая слава
+shader.dse.race=Синяя команда
+shader.dse.muscle=Красная команда
+shader.dse.dark=Назад в черный
+shader.dse.space=Межзвездный
+shader.dse.pink=Роза
+shader.dse.tech=N-TECH
+
+//---Colors---//
+color.dse.black=Черный
+color.dse.red=Красный
+color.dse.green=Зеленый
+color.dse.brown=Коричневый
+color.dse.blue=Синий
+color.dse.purple=Фиолетовый
+color.dse.cyan=Голубой
+color.dse.lightGray=Светло-серый
+color.dse.gray=Серый
+color.dse.pink=Розовый
+color.dse.lime=Лаймовый
+color.dse.yellow=Желтый
+color.dse.lightBlue=Светло-синий
+color.dse.magenta=Пурпурный
+color.dse.orange=Оранжевый
+color.dse.white=Белый
+
+//---Attributes--//
+attribute.name.dse.hyperthermic=Гипертермическая защита
+attribute.name.dse.hypothermic=Гипотермическая защита
+
+//---Tooltip---//
+tooltip.dse.block.compressor=Использует энергию для сжатия;воздуха и заполнения баллонов с воздухом.
+tooltip.dse.block.charger=Заряжает предметы размещённые в нём.
+tooltip.dse.block.vehiclecharger=Заряжает транспорт, припаркованный в;передней части заряжающей бухты.
+tooltip.dse.block.vehiclecharger.details=Только один транспортн может;может быть заряжено одновременно!!
+tooltip.dse.block.vehiclestation=Позволяет взаимодействовать и;модернизировать транспорт поблизости;как если бы они были на;инструментальной станции.
+tooltip.dse.item.divinggoggles=Дает ясное зрение под водой.;Но попробуйте одеть их на;время из воды, иначе;они будут заполнить водой.
+tooltip.dse.item.flippers=Плыви быстрее, двигайся медленнее.
+tooltip.dse.item.airtank=Необходимый инструмент для;более длинних сессии подныривания.
+tooltip.dse.item.airtank.creative=Не знаете, как дышать?;Тогда это для тебя.
+tooltip.dse.item.dinghy=Просто лодка из резины.;О, и его можно забрать, когда;Shift+ПКМ с пустой рукой.
+tooltip.dse.item.shadercore=Основной компонент шейдеров.;Но его также можно использовать;для удаления шейдеров из предметов.
+tooltip.dse.item.hammer=Остановите время молота;используйте чтобы сделать пластины.
+tooltip.dse.item.heavyboots=Плавает, как камень.
+tooltip.dse.item.motorboat=Больше нет необходимости в веслах.;Ну, если только у тебя не закончится энергия.;Shift+ПКМ с гаечным ключом, чтобы забрать его.
+tooltip.dse.item.scubamask=Этот нагрудник является частью;полного подводного набора брони.
+tooltip.dse.item.scubachest=Этот нагрудник является частью;полного подводного набора брони.
+tooltip.dse.item.scubalegs=Эти поножи являются частью;полного подводного набора брони.
+tooltip.dse.item.scubaboots=Эти ботинки являются частью;полного подводного набора брони.
+tooltip.dse.item.armorplate=Используется для обновления защиты;брони акваланга.
+tooltip.dse.item.powerunit=Хранит большое количество энергии.
+tooltip.dse.item.powerunit.creative=Не знаю, откуда он черпает;откуда его энергия.
+tooltip.dse.upgrade.paddles=Полезно для перемещения вашей лодки;когда закончилась энергия.
+tooltip.dse.upgrade.storagebox=Добавляет небольшой инвентарь к Вашей лодке.
+tooltip.dse.upgrade.boatbooster=Позволяет вашей лодке ускоряться;когда зажата кнопка прыжка.;Разумеется потребляя больше энергии.
+tooltip.dse.upgrade.lightfilter=Активно отфильтровывает любой источник;низкого уровня освещенности.
+tooltip.dse.upgrade.amplifier=Позволяет добывать на нормальной;скорости пока под водой.
+tooltip.dse.armorplate.onscuba=Когда на броне акваланга
+tooltip.dse.armorplate.onhead=Броня на голове
+tooltip.dse.armorplate.onbody=Броня на теле
+tooltip.dse.armorplate.onlegs=Броня на ногах
+tooltip.dse.armorplate.onfeet=Броня на ступнях
+tooltip.dse.armorplate.noarmor=Эта пластина брони не обеспечивает;дополнительной физической защиты.
+tooltip.dse.insulation.hyperthermic=Обеспечивает сопротивление;против экстремальной жары.
+tooltip.dse.insulation.hypothermic=Обеспечивает сопротивление;против экстремального холода.
+tooltip.dse.buff.hyperthermic=Полный комплект позволяет Вам оставаться;в экстремально жарких областях.
+tooltip.dse.buff.hypothermic=Полный комплект позволяет Вам оставаться;в экстремально холодных областях.
+tooltip.dse.mod.canuse=Может использоваться для обновления
+tooltip.dse.mod.appliesto=Может применяться
+tooltip.dse.mod.ctrlinfo=для обновлений
+tooltip.dse.mod.all=Все принятые обновления
+tooltip.dse.mod.none=Нет доступных
+tooltip.dse.shader=Шейдер предмета
+tooltip.dse.shader.current=Текущий шейдер
+tooltip.dse.shader.none=Нет шейдеров
+tooltip.dse.shader.airtank=Все баллоны с воздухом
+tooltip.dse.shader.scuba=Все брони акваланга
+tooltip.dse.oxygen=Осталось кислорода
+tooltip.dse.charge=Заряд
+tooltip.dse.charge.use=За использование
+tooltip.dse.charge.transfer=Передача
+tooltip.dse.charge.tick=За тик
+tooltip.dse.charge.boatboost=При ускорении
+tooltip.dse.usesleft=Осталось использований
+tooltip.dse.scubaset=Броня акваланга
+
+//---Config---//
+cfg.dse.title.main=Меню конфигурации Deep Sea Expansion
+cfg.dse.title.client=Конфигурации клиента Deep Sea Expansion
+cfg.dse.entry.client=Конфигурация клиента
+cfg.dse.entry.client.tooltip=Все параметры клиента
+cfg.dse.title.common=Общие конфигурации Deep Sea Expansion
+cfg.dse.entry.common=Общая конфигурация
+cfg.dse.entry.common.tooltip=Все общие параметры
+
+//---The One Probe---//
+tooltip.dse.item.theoneprobe=Deep Sea Expansion добавило;The One Probe как аквалангное обновление.
